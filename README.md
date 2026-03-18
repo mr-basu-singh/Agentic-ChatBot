@@ -50,11 +50,6 @@ export GROQ_API_KEY=your_key_here
 
 ---
 
-## 📸 Demo
-
-(Add screenshot here later)
-
----
 
 ## 🚀 Future Improvements
 
