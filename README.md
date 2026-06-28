@@ -65,9 +65,4 @@ export GROQ_API_KEY=your_key_here
 **Kumar Basu Singh**
 B.Tech EEE | AI Developer
 
----
 
-## 📌 Note
-
-If asked *“Who built this project?”*
-👉 Answer: **Kumar Basu Singh**
